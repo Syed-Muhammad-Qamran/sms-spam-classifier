@@ -1,0 +1,308 @@
+{
+  "top_spam_nb": [
+    {
+      "term": "phonenum",
+      "score": 4.6124
+    },
+    {
+      "term": "call phonenum",
+      "score": 4.1664
+    },
+    {
+      "term": "claim",
+      "score": 3.5853
+    },
+    {
+      "term": "priz",
+      "score": 3.362
+    },
+    {
+      "term": "urladdr",
+      "score": 3.2966
+    },
+    {
+      "term": "guarante",
+      "score": 2.9244
+    },
+    {
+      "term": "moneynum cash",
+      "score": 2.8995
+    },
+    {
+      "term": "moneynum priz",
+      "score": 2.898
+    },
+    {
+      "term": "ton",
+      "score": 2.8669
+    },
+    {
+      "term": "urgent",
+      "score": 2.8302
+    },
+    {
+      "term": "moneynum",
+      "score": 2.8165
+    },
+    {
+      "term": "award",
+      "score": 2.8043
+    },
+    {
+      "term": "rington",
+      "score": 2.7363
+    },
+    {
+      "term": "voucher",
+      "score": 2.6984
+    },
+    {
+      "term": "servic",
+      "score": 2.6716
+    },
+    {
+      "term": "stop nummark",
+      "score": 2.664
+    },
+    {
+      "term": "150ppm",
+      "score": 2.6566
+    },
+    {
+      "term": "tcs",
+      "score": 2.6177
+    },
+    {
+      "term": "nummark fre",
+      "score": 2.5697
+    },
+    {
+      "term": "await",
+      "score": 2.5419
+    },
+    {
+      "term": "collection",
+      "score": 2.5402
+    },
+    {
+      "term": "box nummark",
+      "score": 2.5365
+    },
+    {
+      "term": "win moneynum",
+      "score": 2.5266
+    },
+    {
+      "term": "mob",
+      "score": 2.4768
+    },
+    {
+      "term": "poly",
+      "score": 2.4636
+    }
+  ],
+  "top_ham_nb": [
+    {
+      "term": "ltgt",
+      "score": 3.1458
+    },
+    {
+      "term": "ill",
+      "score": 3.1085
+    },
+    {
+      "term": "ok",
+      "score": 2.9237
+    },
+    {
+      "term": "later",
+      "score": 2.7993
+    },
+    {
+      "term": "im",
+      "score": 2.7643
+    },
+    {
+      "term": "lor",
+      "score": 2.7482
+    },
+    {
+      "term": "hom",
+      "score": 2.7209
+    },
+    {
+      "term": "da",
+      "score": 2.6887
+    },
+    {
+      "term": "com",
+      "score": 2.5231
+    },
+    {
+      "term": "that",
+      "score": 2.4941
+    },
+    {
+      "term": "going",
+      "score": 2.4795
+    },
+    {
+      "term": "say",
+      "score": 2.479
+    },
+    {
+      "term": "wat",
+      "score": 2.4783
+    },
+    {
+      "term": "sorry",
+      "score": 2.4506
+    },
+    {
+      "term": "got",
+      "score": 2.4407
+    },
+    {
+      "term": "much",
+      "score": 2.4023
+    },
+    {
+      "term": "lol",
+      "score": 2.3911
+    },
+    {
+      "term": "oh",
+      "score": 2.3904
+    },
+    {
+      "term": "way",
+      "score": 2.3604
+    },
+    {
+      "term": "work",
+      "score": 2.3557
+    },
+    {
+      "term": "anyth",
+      "score": 2.2694
+    },
+    {
+      "term": "watch",
+      "score": 2.2313
+    },
+    {
+      "term": "hey",
+      "score": 2.2306
+    },
+    {
+      "term": "sur",
+      "score": 2.2186
+    },
+    {
+      "term": "class",
+      "score": 2.2121
+    }
+  ],
+  "lr_coefficients": [
+    {
+      "term": "phonenum",
+      "coef": 9.5955
+    },
+    {
+      "term": "moneynum",
+      "coef": 5.7718
+    },
+    {
+      "term": "urladdr",
+      "coef": 5.4857
+    },
+    {
+      "term": "txt",
+      "coef": 5.2454
+    },
+    {
+      "term": "nummark",
+      "coef": 5.1294
+    },
+    {
+      "term": "call phonenum",
+      "coef": 4.7716
+    },
+    {
+      "term": "rep",
+      "coef": 4.0613
+    },
+    {
+      "term": "fre",
+      "coef": 3.8153
+    },
+    {
+      "term": "text",
+      "coef": 3.6882
+    },
+    {
+      "term": "mobil",
+      "coef": 3.2389
+    },
+    {
+      "term": "claim",
+      "coef": 3.0559
+    },
+    {
+      "term": "servic",
+      "coef": 3.0329
+    },
+    {
+      "term": "stop",
+      "coef": 2.8201
+    },
+    {
+      "term": "ton",
+      "coef": 2.65
+    },
+    {
+      "term": "win",
+      "coef": 2.4728
+    },
+    {
+      "term": "rington",
+      "coef": 2.3223
+    },
+    {
+      "term": "video",
+      "coef": 2.2615
+    },
+    {
+      "term": "new",
+      "coef": 2.2192
+    },
+    {
+      "term": "chat",
+      "coef": 2.1005
+    },
+    {
+      "term": "priz",
+      "coef": 2.0435
+    },
+    {
+      "term": "nokia",
+      "coef": 1.9905
+    },
+    {
+      "term": "ltd",
+      "coef": 1.8579
+    },
+    {
+      "term": "send",
+      "coef": 1.7746
+    },
+    {
+      "term": "nummark nummark",
+      "coef": 1.7513
+    },
+    {
+      "term": "uk",
+      "coef": 1.7268
+    }
+  ]
+}
